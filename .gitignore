@@ -1,0 +1,37 @@
+# Node / JS
+node_modules/
+npm-debug.log
+yarn-error.log
+pnpm-lock.yaml
+package-lock.json
+
+# Expo / React Native
+.expo/
+.expo-shared/
+dist/
+build/
+
+# Android
+android/.gradle/
+android/app/build/
+.gradle/
+local.properties
+
+# iOS
+ios/Pods/
+ios/build/
+
+# IDEs & tooling
+.vscode/
+.idea/
+*.iml
+
+# Credentials & envs
+.env
+.env.local
+*.keystore
+google-services.json
+GoogleService-Info.plist
+
+# Misc
+.DS_Store
